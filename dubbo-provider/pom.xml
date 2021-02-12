@@ -17,7 +17,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <zookeeper.version>3.4.13</zookeeper.version>
+        <zookeeper.version>3.4.14</zookeeper.version>
         <dubbo.version>0.2.0</dubbo.version>
     </properties>
 
